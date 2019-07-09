@@ -12,12 +12,12 @@
         "type": "git",
         "url": "https://github.com/Luka967/OgarII.git"
     },
+    "scripts": {
+        "start": "node cli/index.js"
+    },
     "bugs": {
         "email": "anusualmail123@gmail.com",
         "url": "https://github.com/Luka967/OgarII/issues"
-    },
-     scripts": {
-        "start": "node cli/index.js"
     },
     "dependencies": {
         "uws": "10.148.1"
